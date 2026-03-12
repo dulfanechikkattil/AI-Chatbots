@@ -267,15 +267,11 @@ Code:
 .
 ```
 <img width="1360" height="493" alt="image" src="https://github.com/user-attachments/assets/bc8b84eb-9785-40ba-8cc5-1618486375ff" />
-
-```
-
 The AI creates a complete professional email.
 
----
-
 ## 6️⃣ AI Grammar Corrector
-
+```
+----
 Corrects grammar and spelling errors in sentences.
 
 code:
@@ -310,9 +306,10 @@ while True:
 
 ---
 
-# ⚙️ Technologies Used
 
 ```
+# ⚙️ Technologies Used
+
 * **Python**
 * **Ollama (Local LLM Runtime)**
 * **Llama3 Model**
@@ -339,11 +336,8 @@ Terminal Output
 ```
 
 
-
-
-# 📁 Project Modules
-
 ```
+# 📁 Project Modules
 AI Chatbot Toolkit
 │
 ├── AI Terminal Chatbot
@@ -352,13 +346,11 @@ AI Chatbot Toolkit
 ├── AI Tutor
 ├── AI Email Writer
 └── AI Grammar Corrector
-```
-
----
-
 # 👨‍💻 Author
 
 Developed as a **practical AI learning project** to explore **local LLM applications using Python and Ollama**.
 
----
+```
+
+
 
