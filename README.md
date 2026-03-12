@@ -229,7 +229,8 @@ _ _ _
 Generates professional emails automatically based on a topic.
 
 Code:
-def generate_email(topic):
+       
+       def generate_email(topic):
 
     response = cilent.chat.completions.create(
         model=model,
@@ -248,9 +249,9 @@ def generate_email(topic):
     return response.choices[0].message.content
 
 
-print("📧 AI Email Writer Ready (type 'exit' to quit)\n")
+    print("📧 AI Email Writer Ready (type 'exit' to quit)\n")
 
-while True:
+    while True:
 
     prompt = input("Email Topic: ")
 
@@ -311,6 +312,7 @@ while True:
 
 # ⚙️ Technologies Used
 
+```
 * **Python**
 * **Ollama (Local LLM Runtime)**
 * **Llama3 Model**
@@ -321,6 +323,7 @@ while True:
 
 # 🧠 System Architecture
 
+```
 ```
 User Input
      ↓
@@ -335,10 +338,6 @@ AI Response
 Terminal Output
 ```
 
----
-
-
----
 
 
 
