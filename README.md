@@ -1,4 +1,3 @@
-Here is a **clean, professional GitHub project summary** you can paste into your **README.md**. It is written like a real developer project description.
 
 ---
 
