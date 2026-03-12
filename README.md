@@ -66,8 +66,12 @@ A conversational chatbot that interacts with the user in the terminal and mainta
 * Context memory
 * Runs locally using Llama3
 
-Example interaction:
+code :
+commen model and api
 <img width="844" height="175" alt="image" src="https://github.com/user-attachments/assets/4762192f-346d-43f5-b2ce-e9fb1bd0e462" />
+```
+
+
 messages = [{"role":"system","content":"you are a helpful AI Terminal assistant."}]
 print("🤖 AI Terminal  Chatbot (Type 'exit' to quit )\n")
 while True:
@@ -80,14 +84,16 @@ while True:
     print("AI:",replay,"\n")
     messages.append({"role":"assistant","content":replay})9
 ```
+-----
 <img width="842" height="164" alt="image" src="https://github.com/user-attachments/assets/916cb084-cd9b-4726-a3d1-1900e831a327" />
 
-```
 
 ## 2️⃣ AI Code Generator
 
 Generates programming code based on user prompts.
 code:
+```
+
 
 print("⚡ AI Code Generator")
 print("Type 'exit' to quit\n")
@@ -117,6 +123,10 @@ while True:
     print("\nGenerated Code:\n")
     print(code)
     print("\n" + "-"*50 + "\n")
+
+```
+---
+
 
 The AI will generate clean and structured code.
 ---
