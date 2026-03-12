@@ -66,7 +66,7 @@ A conversational chatbot that interacts with the user in the terminal and mainta
 * Runs locally using Llama3
 
 code :
-commen model and api
+common model and api
 <img width="844" height="175" alt="image" src="https://github.com/user-attachments/assets/4762192f-346d-43f5-b2ce-e9fb1bd0e462" />
 ```
 
