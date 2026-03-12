@@ -89,7 +89,7 @@ while True:
 
 ## 2️⃣ AI Code Generator
 
-Generates programming code based on user prompts.
+Generates programming code based on user prompts.The AI will generate clean and structured code.
 code:
 ```
 
@@ -124,10 +124,9 @@ while True:
     print("\n" + "-"*50 + "\n")
 
 ```
----
 
 
-The AI will generate clean and structured code.
+
 ---
 
 <img width="797" height="340" alt="image" src="https://github.com/user-attachments/assets/cce1547e-9648-43ef-901d-e5170d92c88d" />
